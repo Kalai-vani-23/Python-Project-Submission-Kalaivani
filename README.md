@@ -21,5 +21,6 @@ output.csv:
 ![image](https://github.com/Kalai-vani-23/Python-Project-Submission-Kalaivani/assets/117883968/e2994d98-5842-49c8-b9fa-9a5bcd110cba)
 
 Output of app:
-![image](https://github.com/Kalai-vani-23/Python-Project-Submission-Kalaivani/assets/117883968/12c0e220-3928-4c81-87cf-e5c15917524a)
+![image](https://github.com/Kalai-vani-23/Python-Project-Submission-Kalaivani/assets/117883968/b7578737-31ab-4f4f-847d-2ec1dd6d049f)
+
 
