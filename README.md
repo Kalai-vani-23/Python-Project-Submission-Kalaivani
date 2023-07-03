@@ -4,6 +4,12 @@ Python Project Submission-Kalaivani
 Project Description:
   I have scrapped movies.csv page of github and read only the movies details content from the page. These data are stored in the output.csv file for further movie picker bot. The bot will be asking for genre input from the user and randomly pickes one of the film from repository.
 
+Libraries used:
+from bs4 import BeautifulSoup
+import requests
+import pandas as pd
+import random
+
 Screenshots:
 
 output.csv: 
